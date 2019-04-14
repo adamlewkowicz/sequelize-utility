@@ -1,0 +1,23 @@
+{
+  "name": "sequelize-utility",
+  "version": "1.0.0",
+  "description": "Set of modular and reusable methods, hooks, helpers for sequelize models",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alk831/sequelize-utility.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alk831/sequelize-utility/issues"
+  },
+  "homepage": "https://github.com/alk831/sequelize-utility#readme",
+  "dependencies": {
+    "sequelize": "^5.3.5"
+  }
+}
